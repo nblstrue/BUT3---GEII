@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "2025-03-03_21-09-50")(type "KiCad")(uri "${KIPRJMOD}/MCP6292/2025-03-03_21-09-50.kicad_sym")(options "")(descr ""))
+)
